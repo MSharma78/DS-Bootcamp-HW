@@ -1,8 +1,2 @@
-def sum_of_integers(a, b):
-    return a + b
-
-
-num1 = int(input("Enter first integer: "))
-num2 = int(input("Enter second integer: "))
-
-print("Sum:", sum_of_integers(num1, num2))
+A = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+B = np.array([5, 6, 7, 8, 9, 10, 11, 12, 13, 14])
